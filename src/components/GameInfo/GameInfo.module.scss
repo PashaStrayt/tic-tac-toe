@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.orange {
+  color: #947300;
+  text-transform: uppercase;
+}
+
+.blue {
+  color: #0669FF;
+  text-transform: uppercase;
+}
+
+.text-active-player {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 69px;
+  color: #393939;
+}
+
+.text-info {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #393939;
+}

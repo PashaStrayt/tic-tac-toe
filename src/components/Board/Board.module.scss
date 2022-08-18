@@ -1,0 +1,19 @@
+.grid {
+  width: 364px;
+  height: 364px;
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  background: #565656;
+}
+
+.cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 116px;
+  height: 116px;
+  background: #CACACA;
+  cursor: pointer;
+}
