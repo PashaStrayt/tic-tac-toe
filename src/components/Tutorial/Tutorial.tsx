@@ -1,7 +1,7 @@
 import { FC } from 'react';
 import Button from '../Button/Button';
 import ModalWindow from '../ModalWindow/ModalWindow';
-import gif from './gif.gif';
+import gif from './gif1.gif';
 import style from './Tutorial.module.scss';
 
 interface TutorialProps {
