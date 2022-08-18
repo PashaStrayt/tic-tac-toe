@@ -6,3 +6,6 @@
 ### `yarn start`
 
 ### `yarn build`
+
+## [Actual Deploy](http://tic-tac-toe-jade-seven.vercel.app/)
+http://tic-tac-toe-jade-seven.vercel.app/
